@@ -1,0 +1,4 @@
+[submodule "testB"]
+	path = testB
+	url = git@github.com:Are52Tap/testB.git
+	branch = main
